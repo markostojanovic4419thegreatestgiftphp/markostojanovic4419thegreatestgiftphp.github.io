@@ -1,0 +1,23 @@
+[
+    {
+        "primaryHref":"index.html",
+        "primaryLabel":"Home"
+    },
+    {
+        "primaryHref":"#",
+        "primaryLabel":"Catalog",
+        "secondaryHrefs": [
+            "comedyNovels.html",
+            "dramaNovels.html"
+        ],
+        "secondaryLabels":[
+            "Comedy novels",
+            "Drama novels"
+        ]
+    },
+    {
+        "primaryHref":"cart.html",
+        "primaryLabel":"<span class='fa fa-shopping-cart tinyMarginRight' aria-hidden='true'></span><span class='numberOfNovels'></span>"
+    }
+
+]

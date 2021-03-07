@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "purposeName" : "Suggestion"
+    },
+    {
+        "id":2,
+        "purposeName" : "Complaint"
+    },
+    {
+        "id":3,
+        "purposeName" : "Compliment"
+    },
+    {
+        "id":4,
+        "purposeName" : "Something else"
+    }
+]

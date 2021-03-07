@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "categoryName" : "Sort by..."
+    },
+    {
+        "id": 1,
+        "categoryName" : "Sort by title in ascending order"
+    },
+    {
+        "id": 2,
+        "categoryName" : "Sort by title in descending order"
+    },
+    {
+        "id": 3,
+        "categoryName" : "Sort by price in ascending order"
+    },
+    {
+        "id": 4,
+        "categoryName" : "Sort by price in descending order"
+    },
+    {
+        "id": 5,
+        "categoryName" : "Sort by year of issue in ascending order"
+    },
+    {
+        "id": 6,
+        "categoryName" : "Sort by year of issue in descending order"
+    }
+]

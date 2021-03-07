@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc> https://markostojanovic4419thegreatestgift.github.io/index.html</loc>
+		<lastmod>2020-12-28</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc> https://markostojanovic4419thegreatestgift.github.io/comedyNovels.html </loc>
+		<lastmod>2020-12-28</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	<url>
+		<loc> https://markostojanovic4419thegreatestgift.github.io/dramaNovels.html</loc>
+		<lastmod>2020-12-28</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc> https://markostojanovic4419thegreatestgift.github.io/cart.html</loc>
+		<lastmod>2020-12-28</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc> https://markostojanovic4419thegreatestgift.github.io/author.html </loc>
+		<lastmod>2020-12-28</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.6</priority>
+	</url>
+</urlset>

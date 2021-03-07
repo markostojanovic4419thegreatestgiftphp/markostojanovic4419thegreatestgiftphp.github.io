@@ -1,0 +1,263 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Krub', sans-serif;
+}
+.width100,img {
+    width: 100%;
+}
+.redBackgroundColor {
+    background-color: #e70029;
+}
+.redColor {
+    color: #e70029;
+}
+.greenColor {
+    color: #04bf49;
+}
+header {
+    z-index: 500;
+    box-shadow: 0px 5px 10px #000000;
+}
+#logo {
+    width: 80px;
+}
+.wrapper {
+    width: 1152px;
+}
+.margin0Auto {
+    margin: 0px auto;
+}
+.displayFlex {
+    display: flex;
+}
+.displayNone {
+    display: none;
+}
+.justifyContentSpaceBetween {
+    justify-content: space-between;
+}
+.justifyContentFlexEnd {
+    justify-content: flex-end;
+}
+.justifyContentCenter {
+    justify-content: center;
+}
+.flexDirectionColumn {
+    flex-direction: column;
+}
+.alignItemsCenter {
+    align-items: center;
+}
+.textAlignCenter {
+    text-align: center;
+}
+.textAlignJustify {
+    text-align: justify;
+}
+.positionFixed {
+    position: fixed;
+}
+.postionRelative {
+    position: relative;
+}
+.positionAbsolute {
+    position: absolute;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    font-size: 80px;
+}
+h2 {
+    font-size: 50px;
+}
+h3 {
+    font-size: 40px;
+}
+h4 {
+    font-size: 28px;
+}
+h5 {
+    font-size: 24px;
+}
+h6 {
+    font-size: 22px;
+}
+a,p {
+    font-size: 20px;
+}
+#hamburger {
+    font-size: 35px;
+}
+.whiteColor,::placeholder {
+    color: #ffffff;
+}
+.linkPaddingLeftRight {
+    padding: 0px 40px;
+}
+.linkPaddingTopBottom {
+    padding: 20px 0px;
+}
+.menuCenter {
+    margin-top: 30px;
+}
+#submenu {
+    width: 400px;
+}
+.height100vh {
+    height: 100vh;
+}
+.bottom50 {
+    bottom: 50px;
+}
+.width45 {
+    width: 45%;
+}
+.blockPaddingTop {
+    padding-top: 50px;
+}
+.blockPaddingBottom {
+    padding-bottom: 50px;
+}
+.borderRadius {
+    border-radius: 10px;
+}
+input,select,textarea,button {
+    border: 0px solid #000000;
+  } 
+input:focus, select:focus, textarea:focus,button {
+    outline: none;
+}
+.tinyPadding {
+    padding: 10px;
+}
+.boxSizingBorderBox {
+    box-sizing: border-box;
+}
+.sublistPaddingLeft {
+    padding-left: 20px;
+}
+.descriptiveImageBoxShadow {
+    box-shadow: 5px 5px 10px #000000;
+}
+.descriptionPadding {
+    padding-top: 10px;
+}
+.width15 {
+    width: 15%;
+}
+.width25 {
+    width: 25%;
+}
+.width20 {
+    width: 20%;
+}
+.width75 {
+    width: 75%;
+}
+input[type=checkbox]{
+    transform: scale(2);
+}
+.tinyMarginLeft {
+    margin-left: 10px;
+}
+.tinyMarginRight {
+    margin-right: 10px;
+}
+.tinyMarginTop {
+    margin-top: 10px;
+}
+.tinyMarginBottom {
+    margin-bottom: 10px;
+}
+.fa-search {
+    font-size: 50px;
+}
+.modal {
+    z-index: 501;
+    overflow: auto;
+    left: 0;
+    top: 0;
+    background-color: #0000007F;
+}
+.modalDialog {
+    overflow-y: initial !important;
+}
+.modalBody{
+    height: 80vh;
+    overflow-y: auto;
+}
+.whiteBackgroundColor {
+    background-color: #ffffff;
+}
+.floatLeft {
+    float: left;
+}
+.novelMarginRight {
+    margin-right: 5%;
+}
+@media screen and (max-width: 1152px) {
+    .wrapper {
+      width: 85%;
+    }
+    h1 {
+        font-size: 70px;
+    }
+    h2 {
+        font-size: 35px;
+    }
+    h3 {
+        font-size: 30px;
+    }
+    .laptopFlexDirectionColumn {
+        flex-direction: column;
+    }
+    .laptopAlignItemsCenter {
+        align-items: center;
+    }
+}
+@media screen and (max-width: 768px) {
+    .tabletDisplayFlex {
+        display: flex;
+    }
+    .tabletDisplayNone {
+        display: none;
+    }
+    .tabletFlexDirectionColumn {
+        flex-direction: column;
+    }
+    .tabletWidth95 {
+        width: 95%;
+    }
+    .tabletAlignItemsCenter {
+        align-items: center;
+    }
+    .tabletBlockPaddingBottom {
+        padding-bottom: 50px;
+    }
+    .tabletBlockPaddingTop {
+        padding-top: 50px;
+    }
+    .tabletWidth45 {
+        width: 45%;
+    }
+}
+@media screen and (max-width: 480px) {
+    .mobileFlexDirectionColumn {
+        flex-direction: column;
+    }
+    .mobileAlignItemsCenter {
+        align-items: center;
+    }
+    .mobileBlockPaddingTop {
+        padding-top: 120px;
+    }
+    .mobileWidth100 {
+        width: 100%;
+    }
+}

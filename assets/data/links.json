@@ -1,0 +1,22 @@
+[
+    {
+        "href":"https://www.instagram.com/theGreatestGift90",
+        "label" : "<span class='fa fa-instagram' aria-hidden='true'></span>"
+    },
+    {
+        "href":"https://twitter.com/TGift90",
+        "label" : "<span class='fa fa-twitter-square' aria-hidden='true'></span>"
+    },
+    {
+        "href":"https://markostojanovic4419thegreatestgift.github.io/sitemap.xml",
+        "label" : "<span class='fa fa-sitemap' aria-hidden='true'></span>"
+    },
+    {
+        "href":"https://markostojanovic4419thegreatestgift.github.io/documentation.pdf",
+        "label" : "<span class='fa fa-file-pdf-o' aria-hidden='true'></span>"
+    },
+    {
+        "href":"https://markostojanovic4419thegreatestgift.github.io/author.html",
+        "label" : "<span class='fa fa-user' aria-hidden='true'></span>"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "id":1,
+        "title": "Forrest Gump",
+        "author" : "Winston Groom",
+        "subgenre" : "Romance",
+        "price" : 11.39,
+        "image":{
+            "src":"assets/img/forrestGump.jpg",
+            "alt":"Forrest Gump"
+        },
+        "numberOfPages" : 228,
+        "publishingInformation":{
+            "yearOfIssue" : 1986,
+            "publishingHouse" : "HarperCollins"
+        },
+        "availability" : "In stock",
+        "description":"A touching story about a man who becomes successful in many things thanks to the large number of talents he possesses, despite his lower than average IQ. You will be enchanted by his way of looking at life, which is simple but very wise. This novel was screened in 1994 when it was turned into the film of the same name, directed by Robert Zemeckis, starring Tom Hanks."
+    },
+    {
+        "id":2,
+        "title": "Bridget Jones's Diary",
+        "author" : "Helen Fielding",
+        "subgenre" : "Romance",
+        "price" : 7.40,
+        "image":{
+            "src":"assets/img/bridgetJonesSDiary.jpg",
+            "alt":"Bridget Jones's Diary"
+        },
+        "numberOfPages" : 288,
+        "publishingInformation":{
+            "yearOfIssue" : 1996,
+            "publishingHouse" : "Hachette"
+        },
+        "availability" : "In stock",
+        "description":"The novel is written in the form of a diary and follows the events in the life of Bridget Jones, an unmarried woman in her 30s from London. In the diary, she writes on a regular basis about the fear of dying without anyone, but during the year, she will get involved in two romances. The 2001 film of the same name, directed by Sharon Maguire and starring Renee Zellweger, is an adaptation of this novel."
+    },
+    {
+        "id":3,
+        "title": "Bridget Jones: The Edge of Reason",
+        "author" : "Helen Fielding",
+        "subgenre" : "Romance",
+        "price" : 14.00,
+        "image":{
+            "src":"assets/img/bridgetJonesTheEdgeOfReason.jpg",
+            "alt":"Bridget Jones: The Edge of Reason"
+        },
+        "numberOfPages" : 432,
+        "publishingInformation":{
+            "yearOfIssue" : 1999,
+            "publishingHouse" : "Hachette"
+        },
+        "availability" : "In stock",
+        "description":"After Bridget Jones finds the man of her dreams, she will soon be disappointed with his lack of expression of love. Bridget's suspicion that her boyfriend Mark fell in love with his colleague Rebecca, as well as her ex-boyfriend Daniel's business offer to shoot a travel series together, will lead to an unexpected turn. The 2004 film of the same name, directed by Beeban Kidron and starring Renee Zellweger, Colin Firth, Jacinda Barrett and Hugh Grant, is a screened version of this novel."
+    },
+    {
+        "id":4,
+        "title":"Father of the Bride",
+        "author" : "Edward Streeter",
+        "subgenre" : "Family",
+        "price" : 11.00,
+        "image":{
+            "src":"assets/img/fatherOfTheBride.jpg",
+            "alt":"Father of the Bride"
+        },
+        "numberOfPages" : 240,
+        "publishingInformation":{
+            "yearOfIssue" : 1949,
+            "publishingHouse" : "Random House"
+        },
+        "availability" : "In stock",
+        "description":"The plot follows George Banks, whose quiet life turns into a nightmare when his 22-year-old daughter Annie comes home with the news that she is engaged and will get married soon. George is distrustful of her fiance Bryan MacKenzie, essentially fearing that Bryan is the right man for her daughter because then he will lose her. After he agrees with the wedding at the urging of his wife Nina, his problems will only begin. This hilarious novel got its adaptation on screen in 1991 movie of the same name, directed by Nancy Meyers and starring Steve Martin, Diane Keaton, Kimberly Williams and George Newbern."
+    },
+    {
+        "id":5,
+        "title":"The First Wives Club",
+        "author" : "Olivia Goldsmith",
+        "subgenre" : "Romance",
+        "price" : 27.99,
+        "image":{
+            "src":"assets/img/theFirstWivesClub.jpg",
+            "alt":"The First Wives Club"
+        },
+        "numberOfPages" : 576,
+        "publishingInformation":{
+            "yearOfIssue" : 1992,
+            "publishingHouse" : "Random House"
+        },
+        "availability" : "In stock",
+        "description":"The novel follows Annie, Brenda and Elise who are divorced after their husbands left them for younger women. After their college friend commits suicide because her ex-husband marries his mistress three days after the divorce, Annie, Brenda and Elise decide to take revenge on all four. In 1996, this novel received its adaptation on the screen in the form of the motion picture of the same name, directed by Hugh Wilson, starring Diane Keaton, Betty Middler and Goldie Hawn."
+    },
+    {
+        "id":6,
+        "title":"Madame Doubtfire",
+        "author" : "Anne Fine",
+        "subgenre" : "Family",
+        "price" : 32.95,
+        "image":{
+            "src":"assets/img/madameDoubtfire.jpg",
+            "alt":"Madame Doubtfire"
+        },
+        "numberOfPages" : 208,
+        "publishingInformation":{
+            "yearOfIssue" : 1987,
+            "publishingHouse" : "HarperCollins"
+        },
+        "availability" : "Not in stock",
+        "description":"Daniel Hillard is an impractical, unemployed actor, while Miranda Hillard is a successful businesswoman who gets custody of their children and leaves very limited time for Daniel to spend time with them. When Miranda decides to hire a nanny, Daniel will disguise himself as a woman and get a job. Mrs. Doubtfire from 1993 is a screened version of this novel, and this picture, directed by Chris Columbus, stars Robin Williams and Sally Field."
+    },
+    {
+        "id":7,
+        "title":"Mr. Hobbs' Vacation",
+        "author" : "Edward Streeter",
+        "subgenre" : "Family",
+        "price" : 55.90,
+        "image":{
+            "src":"assets/img/mrHobbsVacation.jpg",
+            "alt":"Mr. Hobbs' Vacation"
+        },
+        "numberOfPages" : 156,
+        "publishingInformation":{
+            "yearOfIssue" : 1954,
+            "publishingHouse" : "Hachette"
+        },
+        "availability" : "In stock",
+        "description":"Roger Hobbs looks back on his recent vacation. The idea was for his wife Peggy and he to go to the sea alone, but Peggy instead invites the whole estranged family. Although he is initially against any interference in the lives of his children and grandchildren, Roger will start solving family problems one by one. This novel got its adaptation on the screen in 1962 under the name Mr. Hobbs Takes a Vacation directed by Henry Koster and starring James Stewart and Maureen O'Hara."
+    },
+    {
+        "id":8,
+        "title":"The Bishop's Wife",
+        "author" : "Robert Nathan",
+        "subgenre" : "Romance",
+        "price" : 11.39,
+        "image":{
+            "src":"assets/img/theBishopSWife.jpg",
+            "alt":"The Bishop's Wife"
+        },
+        "numberOfPages" : 208,
+        "publishingInformation":{
+            "yearOfIssue" : 1928,
+            "publishingHouse" : "Random House"
+        },
+        "availability" : "Not in stock",
+        "description":"Bishop Henry Brougham is a bishop whose obsession with financing the construction of the cathedral leads to an estranged relationship with his wife Julia and daughter Debby. After Henry's request for divine guidance, his requests were answered in the form of the angel Dudley, who leads him to the conclusion where he was wrong in his relationship with his family. The 1946 film of the same name, directed by Henry Koster and starring Cary Grant, David Niven, Loretta Young and Carolyn Grimes, is an adaptation on the screen of this novel."
+    }
+]

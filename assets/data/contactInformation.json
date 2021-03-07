@@ -1,0 +1,27 @@
+[
+    {
+        "primaryLabel": "Address<span class='fa fa-map-marker tinyMarginLeft' aria-hidden='true'></span>",
+        "secondaryLabels":[
+            "40 Fifth Avenue",
+            "New York County",
+            "New York City",
+            "State of New York",
+            "United States Of America"
+        ]
+    },
+    {
+        "primaryLabel": "Business hours<span class='fa fa-clock-o tinyMarginLeft' aria-hidden='true'></span>",
+        "secondaryLabels":[
+            "From Monday to Friday 06:00-22:00",
+            "Saturdays 06:00-14:00",
+            "We are closed on Sundays"
+        ]
+    },
+    {
+        "primaryLabel": "Contact us via...",
+        "secondaryLabels":[
+            "<span class='fa fa-volume-control-phone tinyMarginRight' aria-hidden='true'></span>+1 202 762 1401",
+            "<span class='fa fa-envelope tinyMarginRight' aria-hidden='true'></span> thegreatestgift90&#64gmail.com"
+        ]
+    }
+]

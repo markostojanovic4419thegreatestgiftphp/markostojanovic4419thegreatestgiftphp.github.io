@@ -1,0 +1,146 @@
+[
+    {
+        "id":9,
+        "title": "The Greatest Gift",
+        "author" : "Philip Van Doren Stern",
+        "subgenre" : "Christmas",
+        "price" : 7.83,
+        "image":{
+            "src":"assets/img/theGreatestGift.jpg",
+            "alt":"The Greatest Gift"
+        },
+        "numberOfPages" : 64,
+        "publishingInformation":{
+            "yearOfIssue" : 1943,
+            "publishingHouse" : "Random House"
+        },
+        "availability" : "In stock",
+        "description":"A touching tale about George Pratt, a man who decides to commit suicide on the eve of Christmas, dissatisfied with his life, whose guardian angel prevents him from doing so at the last moment to which George tells that he wishes he had never been born. On his return home, he discovers what the world would have looked like if he had not been born and after learning that his wife married another man, he returns to the place where he almost committed suicide and calls on his guardian angel to return his greatest gift - his life. The screen adaptation of this novel - 1946 movie It's a Wonderful Life, directed by Frank Capra and starring James Stewart and Donna Reed, has become a Christmas classic."
+    },
+    {
+        "id":10,
+        "title": "Rita Hayworth and Shawshank Redemption",
+        "author" : "Stephen King",
+        "subgenre" : "Prison",
+        "price" : 9.67,
+        "image":{
+            "src":"assets/img/ritaHayworthAndShawshankRedemption.jpg",
+            "alt":"Rita Hayworth and Shawshank Redemption"
+        },
+        "numberOfPages" : 128,
+        "publishingInformation":{
+            "yearOfIssue" : 1982,
+            "publishingHouse" : "Hachette"
+        },
+        "availability" : "In stock",
+        "description":"You will enjoy this novel about a great friendship between Andy, unjustly convicted of the murder of his wife and her lover, and Red, who has been suffering in prison for years for the mistakes he made in his youth. During the novel, Andy finds a way to escape from prison and prove his innocence. This artwork was screened in 1994 in the film The Shawshank Redemption, directed by Frank Darabont and starring Tim Robbins and Morgan Freeman."
+    },
+    {
+        "id":11,
+        "title": "The Green Mile",
+        "author" : "Stephen King",
+        "subgenre" : "Prison",
+        "price" : 12.80,
+        "image":{
+            "src":"assets/img/theGreenMile.jpg",
+            "alt":"The Green Mile"
+        },
+        "numberOfPages" : 432,
+        "publishingInformation":{
+            "yearOfIssue" : 1996,
+            "publishingHouse" : "HarperCollins"
+        },
+        "availability" : "Not in stock",
+        "description":"Paul Edgecombe, a resident of a nursing home tells the story of his career as a prison guard in a death penalty block of a prison known as the Green Mile. You will find out how the arrival of the innocent convict John Coffey in his block changed him forever. The novel got its adaptation in 1999 in the film of the same name directed by Frank Darabont, starring Tom Hanks and Michael Clarke Duncan."
+    },
+    {
+        "id":12,
+        "title":"The Godfather",
+        "author" : "Mario Puzo",
+        "subgenre" : "Crime",
+        "price" : 10.24,
+        "image":{
+            "src":"assets/img/theGodfather.jpg",
+            "alt":"The Godfather"
+        },
+        "numberOfPages" : 608,
+        "publishingInformation":{
+            "yearOfIssue" : 1969,
+            "publishingHouse" : "Random House"
+        },
+        "availability" : "In stock",
+        "description":"We are confident that you will enjoy this novel, which is considered one of the best ever written, and which tells the story about life paths of father and son Vito and Michael Corleone, Dons of the New York mafia family Corleone, originally from Sicily. You will find out how Michael's decision to enter the family business will reflect on his relationship with his girlfriend and later wife Kay Adams. The eponymous 1972 screen adaptation of this novel, directed by Francis Ford Coppola, a masterpiece in itself, stars Marlon Brando, Al Pacino and Diane Keaton."
+    },
+    {
+        "id":13,
+        "title":"Absolute Power",
+        "author" : "David Baldacci",
+        "subgenre" : "Crime",
+        "price" : 12.00,
+        "image":{
+            "src":"assets/img/absolutePower.jpg",
+            "alt":"Absolute Power"
+        },
+        "numberOfPages" : 505,
+        "publishingInformation":{
+            "yearOfIssue" : 1996,
+            "publishingHouse" : "Random House"
+        },
+        "availability" : "In stock",
+        "description":"The plot of this novel unfolds at breakneck speed without losing the thrill of the reader who will very soon empathize with the genius aged robber Luther Whitney, who, intending to rob the house of a billionaire, will find himself at the scene of the murder in which president is mixed in. Even though he managed to escape with the money from the scene of the crime, he will decide to face the president and the secret service and reveal the truth for which he collected evidence at the crime scene. You will also see how his relationship with his estranged daughter Kate, who hated him during her childhood during which Luther was most of the time in prison, will gradually change. The novel was adapted in the 1997 picture of the same name, directed by Clint Eastwood and starring Clint Eastwood and Laura Linney."
+    },
+    {
+        "id":14,
+        "title":"The Sicilian",
+        "author" : "Mario Puzo",
+        "subgenre" : "Crime",
+        "price" : 14.56,
+        "image":{
+            "src":"assets/img/theSicilian.jpg",
+            "alt":"The Sicilian"
+        },
+        "numberOfPages" : 410,
+        "publishingInformation":{
+            "yearOfIssue" : 1984,
+            "publishingHouse" : "Hachette"
+        },
+        "availability" : "Not in stock",
+        "description":"The novel follows Michael, the son of the Don of the New York mafia family Corleone - Vito, to whom his father entrusted the task of taking the famous bandit Salvatore Guiliano with him to America before his return from exile in Sicily. In an unexpected twist, Michael's role will be crucial in whether Salvatore will stay alive or not. The novel was screened in 1987, as a film of the same name, directed by Michael Cimino and starring Christopher Lambert."
+    },
+    {
+        "id":15,
+        "title":"Wiseguy",
+        "author" : "Nicholas Pileggi",
+        "subgenre" : "Crime",
+        "price" : 8.95,
+        "image":{
+            "src":"assets/img/wiseguy.jpg",
+            "alt":"Wiseguy"
+        },
+        "numberOfPages" : 304,
+        "publishingInformation":{
+            "yearOfIssue" : 1985,
+            "publishingHouse" : "HarperCollins"
+        },
+        "availability" : "In stock",
+        "description":"The protagonist Henry Hill remembers his life and the beginning of his criminal career when he was recruited by Caporegime Polie as a child. The tale follows jobs he did together with his friends Jimmy and Tommy as well as his decision to surrender to the federal authorities. The novel was screened in 1990 under direction of Martin Scorsese as Goodfellas and starring Ray Liotta, Robert De Niro, Joe Pesci and Paul Sorvino."
+    },
+    {
+        "id":16,
+        "title":"Casino: Love and Honor in Las Vegas",
+        "author" : "Nicholas Pileggi",
+        "subgenre" : "Crime",
+        "price" : 4.88,
+        "image":{
+            "src":"assets/img/casinoLoveAndHonorInLasVegas.jpg",
+            "alt":"Casino: Love and Honor in Las Vegas"
+        },
+        "numberOfPages" : 432,
+        "publishingInformation":{
+            "yearOfIssue" : 1995,
+            "publishingHouse" : "Hachette"
+        },
+        "availability" : "In stock",
+        "description":"The plot focuses on the story of Frank Rosenthal, a Chicago bookmaker who works for the Mafia and his friend, also a member of the Mafia, Anthony Spilotro. Rosenthal oversees the casino's operations, while Rosenthal provides protection, security and manages the jewelry robberies of his Hole in the Wall Gang. The novel was screened as a 1995 film called Casino, directed by Martin Scorsese and starring Robert De Niro and Joe Pesci."
+    }
+]

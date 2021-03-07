@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "name" : "Random House"
+    },
+    {
+        "id":2,
+        "name" : "Hachette"
+    },
+    {
+        "id" : 3,
+        "name" : "HarperCollins"
+    }
+]

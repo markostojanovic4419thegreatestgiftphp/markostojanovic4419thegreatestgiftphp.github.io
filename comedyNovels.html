@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>The Greatest Gift &#124; Comedy novels</title>
+        <meta name="keywords" content="Greatest, Gift, Family, Romance, screened"/>
+        <meta name="description" content="No matter if you love family or romance comedies more because The Greatest Gift has novels that'll satisfy everybody."/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+        <link href="https://fonts.googleapis.com/css2?family=Krub:wght@300;400&display=swap" rel="stylesheet"/>
+        <link rel="stylesheet" type="text/css" href="assets/css/style.css"/>
+        <link rel="shortcut icon" href="assets/img/smallLogo.ico"/>
+    </head>
+    <body>
+        <header class="width100 redBackgroundColor positionFixed">
+            <div class='wrapper displayFlex justifyContentSpaceBetween margin0Auto mobileFlexDirectionColumn mobileAlignItemsCenter'>
+                <div id='logo'>
+                    <a href="index.html">
+                        <img src='assets/img/logo.png' alt='Logo of The Greatest Gift'/>
+                    </a>
+                </div>
+                <nav>
+                    <ul id="menu" class='displayFlex justifyContentSpaceBetween menuCenter tabletDisplayNone'></ul>
+                    <span id="hamburger" class="fa fa-bars displayNone tabletDisplayFlex menuCenter whiteColor" aria-hidden="true"></span>
+                    <ul id="tabletMenu" class="displayNone flexDirectionColumn textAlignCenter linkPaddingTopBottom"></ul>
+                </nav>
+            </div>
+            <div class="displayNone">
+                <div class="wrapper margin0Auto displayFlex justifyContentFlexEnd">
+                    <ul id="submenu" class="displayFlex justifyContentSpaceBetween"></ul>
+                </div>
+            </div>
+        </header>
+        <div id="slider" class="width100 height100vh positionRelative tabletDisplayNone">
+        </div>
+        <div class="width100 displayFlex flexDirectionColumn positionAbsolute alignItemsCenter bottom50 tabletDisplayNone">
+            <div class="wrapper textAlignCenter">
+                <h1 class="redColor">The Greatest Gift</h2>
+                <h2 class="redColor">The New York's first screened novels bookstore</h3>
+                <h3 class="redColor">Comedy novels</h3>
+            </div>
+        </div>
+        <div class="width100 blockPaddingTop blockPaddingBottom">
+            <div class="wrapper margin0Auto displayFlex justifyContentSpaceBetween tabletFlexDirectionColumn tabletAlignItemsCenter">
+                <div class="width20 displayFlex flexDirectionColumn redColor tabletBlockPaddingTop mobileBlockPaddingTop">
+                    <h4 id="subgenresLabel">Subgenres<span class="fa fa-chevron-down tinyMarginLeft tinyMarginTop" aria-hidden="true"></span></h4>   
+                    <ul id="subgenres" class="displayFlex flexDirectionColumn"></ul>
+                    <h4 id="authorsLabel">Authors <span class="fa fa-chevron-down tinyMarginLeft tinyMarginTop" aria-hidden="true"></span></h4>
+                    <ul id="authors" class="displayFlex flexDirectionColumn"></ul>
+                    <h4 id="publishingHousesLabel">Publishing houses <span class="fa fa-chevron-down tinyMarginLeft tinyMarginTop" aria-hidden="true"></span></h4>
+                    <ul id="publishingHouses" class="displayFlex flexDirectionColumn"></ul>
+                    <h4 id="availabilityLabel">Availability<span class="fa fa-chevron-down tinyMarginLeft tinyMarginTop" aria-hidden="true"></span></h4>
+                    <ul id="availability" class="displayFlex flexDirectionColumn"></ul>
+                </div>
+                <div class="width75">
+                    <div class="displayFlex flexDirectionColumn laptopAlignItemsCenter">
+                        <div class="displayFlex justifyContentSpaceBetween laptopFlexDirectionColumn">
+                            <select id="sort" class="redBackgroundColor borderRadius whiteColor tinyPadding tinyMarginTop"></select>
+                            <span class="displayFlex tinyMarginTop">
+                                <span class="fa fa-search redColor tinyMarginRight margin0Auto" aria-hidden="true"></span>
+                                <input type="search" class="redBackgroundColor borderRadius whiteColor tinyPadding margin0Auto" id="searchTitles" placeholder="Search titles..."/>
+                            </span>
+                        </div>
+                        <span class="displayFlex tinyMarginTop">
+                            <h4 class="tinyMarginRight redColor">Price range from 0 to <output id="topLine">70.64</output>:</h4>
+                            <input type="range" min="0" step="0.01" max="70.64" value="70.64" id="priceRange"/>
+                        </span> 
+                    </div>
+                    <div id="titles"></div>
+                </div>
+            </div>
+        </div>
+        <div class="width100 blockPaddingTop blockPaddingBottom redBackgroundColor">
+            <div class="wrapper margin0Auto displayFlex justifyContentSpaceBetween tabletFlexDirectionColumn tabletAlignItemsCenter">
+                <div class="width45 tabletBlockPaddingBottom">
+                    <h4 class="whiteColor textAlignCenter">The Greatest Gift &copy; 2021 All rights reserved</h4>
+                </div>
+                <ul id="linkList" class="width45 displayFlex justifyContentSpaceBetween"></ul>
+            </div>
+        </div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"> </script>
+        <script src="assets/js/main.js" type="text/javascript"></script>
+    </body>
+</html>
